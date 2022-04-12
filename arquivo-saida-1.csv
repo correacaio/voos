@@ -1,0 +1,451 @@
+origin;destination;airline;departure;arrival;price;time
+FEN-Brasil;LIS-Portugal;AirCanada;14/04/2022 02:00:00 (-09:00);15/04/2022 00:00:00 (+12:00);2521.0;1.0
+FEN-Brasil;LIS-Portugal;Ethiopian Airlines;10/04/2022 19:00:00 (+06:00);10/04/2022 22:00:00 (+07:00);2585.0;2.0
+FEN-Brasil;LIS-Portugal;American Airlines;24/04/2022 00:00:00 (-03:00);24/04/2022 16:00:00 (+04:00);3100.0;9.0
+FEN-Brasil;LIS-Portugal;AirFrance;01/04/2022 19:00:00 (+03:00);02/04/2022 10:00:00 (+08:00);3305.0;10.0
+FEN-Brasil;LIS-Portugal;LATAM Airlines;17/04/2022 03:00:00 (-09:00);18/04/2022 07:00:00 (+08:00);4924.0;11.0
+FEN-Brasil;LIS-Portugal;Qatar Airways;30/04/2022 12:00:00 (+01:00);01/05/2022 06:00:00 (+06:00);3753.0;13.0
+FEN-Brasil;LIS-Portugal;United Airlines;13/04/2022 18:00:00 (+03:00);14/04/2022 18:00:00 (+12:00);3317.0;15.0
+FEN-Brasil;LIS-Portugal;Lufthansa;30/04/2022 02:00:00 (+12:00);30/04/2022 01:00:00 (-05:00);2464.0;16.0
+FEN-Brasil;LIS-Portugal;Emirates;01/04/2022 12:00:00 (-07:00);03/04/2022 00:00:00 (+12:00);4105.0;17.0
+FEN-Brasil;LIS-Portugal;Gol Airlines;21/04/2022 08:00:00 (+11:00);21/04/2022 09:00:00 (-09:00);2242.0;21.0
+FEN-Brasil;MEL-Austrália;Lufthansa;03/04/2022 03:00:00 (-06:00);03/04/2022 18:00:00 (+08:00);4733.0;1.0
+FEN-Brasil;MEL-Austrália;Qatar Airways;09/04/2022 00:00:00 (-08:00);09/04/2022 19:00:00 (+08:00);4455.0;3.0
+FEN-Brasil;MEL-Austrália;LATAM Airlines;07/04/2022 02:00:00 (+02:00);06/04/2022 21:00:00 (-06:00);4944.0;3.0
+FEN-Brasil;MEL-Austrália;Gol Airlines;21/04/2022 16:00:00 (+04:00);22/04/2022 05:00:00 (+11:00);2659.0;6.0
+FEN-Brasil;MEL-Austrália;AirFrance;06/04/2022 00:00:00 (+11:00);06/04/2022 02:00:00 (+07:00);3859.0;6.0
+FEN-Brasil;MEL-Austrália;AirCanada;13/04/2022 15:00:00 (+10:00);13/04/2022 04:00:00 (-12:00);4805.0;11.0
+FEN-Brasil;MEL-Austrália;Ethiopian Airlines;01/04/2022 13:00:00 (+07:00);02/04/2022 00:00:00 (+06:00);3201.0;12.0
+FEN-Brasil;MEL-Austrália;United Airlines;17/04/2022 13:00:00 (+12:00);17/04/2022 10:00:00 (-08:00);3950.0;17.0
+FEN-Brasil;MEL-Austrália;American Airlines;28/04/2022 06:00:00 (-10:00);29/04/2022 03:00:00 (-07:00);2341.0;18.0
+FEN-Brasil;MEL-Austrália;Emirates;23/04/2022 18:00:00 (-11:00);25/04/2022 09:00:00 (+09:00);4191.0;19.0
+FEN-Brasil;YYC-Canada;Qatar Airways;01/04/2022 07:00:00 (-01:00);01/04/2022 09:00:00 (Z);4515.0;1.0
+FEN-Brasil;YYC-Canada;Ethiopian Airlines;18/04/2022 12:00:00 (+12:00);18/04/2022 15:00:00 (+12:00);3213.0;3.0
+FEN-Brasil;YYC-Canada;American Airlines;07/04/2022 06:00:00 (-08:00);07/04/2022 05:00:00 (-12:00);4828.0;3.0
+FEN-Brasil;YYC-Canada;United Airlines;10/04/2022 02:00:00 (-11:00);11/04/2022 04:00:00 (+10:00);4550.0;5.0
+FEN-Brasil;YYC-Canada;Gol Airlines;11/04/2022 06:00:00 (-11:00);12/04/2022 00:00:00 (Z);2286.0;7.0
+FEN-Brasil;YYC-Canada;Emirates;20/04/2022 20:00:00 (+03:00);21/04/2022 11:00:00 (+10:00);3564.0;8.0
+FEN-Brasil;YYC-Canada;Lufthansa;07/04/2022 08:00:00 (+07:00);07/04/2022 10:00:00 (Z);4675.0;9.0
+FEN-Brasil;YYC-Canada;AirCanada;19/04/2022 10:00:00 (+02:00);20/04/2022 03:00:00 (+06:00);4008.0;13.0
+FEN-Brasil;YYC-Canada;LATAM Airlines;01/04/2022 13:00:00 (-02:00);02/04/2022 14:00:00 (+06:00);2073.0;17.0
+FEN-Brasil;YYC-Canada;AirFrance;29/04/2022 10:00:00 (+06:00);30/04/2022 07:00:00 (+10:00);2739.0;17.0
+GRU-Brasil;FEN-Brasil;Ethiopian Airlines;02/04/2022 12:00:00 (-07:00);02/04/2022 12:00:00 (-11:00);3698.0;4.0
+GRU-Brasil;FEN-Brasil;United Airlines;11/04/2022 00:00:00 (+12:00);10/04/2022 14:00:00 (-05:00);3262.0;7.0
+GRU-Brasil;FEN-Brasil;Emirates;16/04/2022 00:00:00 (-03:00);16/04/2022 22:00:00 (+12:00);3462.0;7.0
+GRU-Brasil;FEN-Brasil;AirCanada;25/04/2022 17:00:00 (+07:00);25/04/2022 18:00:00 (-03:00);3793.0;11.0
+GRU-Brasil;FEN-Brasil;LATAM Airlines;26/04/2022 22:00:00 (-09:00);28/04/2022 01:00:00 (+05:00);3226.0;13.0
+GRU-Brasil;FEN-Brasil;American Airlines;02/04/2022 15:00:00 (-05:00);03/04/2022 14:00:00 (+05:00);3387.0;13.0
+GRU-Brasil;FEN-Brasil;Qatar Airways;23/04/2022 04:00:00 (+12:00);23/04/2022 04:00:00 (-03:00);4238.0;15.0
+GRU-Brasil;FEN-Brasil;Lufthansa;08/04/2022 18:00:00 (-04:00);09/04/2022 17:00:00 (-01:00);2299.0;20.0
+GRU-Brasil;FEN-Brasil;Gol Airlines;18/04/2022 19:00:00 (+05:00);19/04/2022 00:00:00 (-10:00);4946.0;20.0
+GRU-Brasil;FEN-Brasil;AirFrance;10/04/2022 20:00:00 (+03:00);11/04/2022 02:00:00 (-12:00);2913.0;21.0
+GRU-Brasil;KIN-Jamaica;Gol Airlines;02/04/2022 01:00:00 (+04:00);01/04/2022 23:00:00 (+01:00);2190.0;1.0
+GRU-Brasil;KIN-Jamaica;LATAM Airlines;09/04/2022 07:00:00 (-12:00);09/04/2022 18:00:00 (-05:00);2006.0;4.0
+GRU-Brasil;KIN-Jamaica;AirFrance;07/04/2022 16:00:00 (-05:00);07/04/2022 19:00:00 (-08:00);3871.0;6.0
+GRU-Brasil;KIN-Jamaica;United Airlines;04/04/2022 00:00:00 (-12:00);05/04/2022 02:00:00 (+08:00);4769.0;6.0
+GRU-Brasil;KIN-Jamaica;Ethiopian Airlines;12/04/2022 06:00:00 (-07:00);12/04/2022 20:00:00 (-02:00);2869.0;9.0
+GRU-Brasil;KIN-Jamaica;Lufthansa;22/04/2022 04:00:00 (+08:00);22/04/2022 15:00:00 (+03:00);3033.0;16.0
+GRU-Brasil;KIN-Jamaica;American Airlines;20/04/2022 13:00:00 (-08:00);22/04/2022 01:00:00 (+12:00);3380.0;16.0
+GRU-Brasil;KIN-Jamaica;AirCanada;27/04/2022 04:00:00 (-12:00);28/04/2022 13:00:00 (+04:00);2891.0;17.0
+GRU-Brasil;KIN-Jamaica;Qatar Airways;07/04/2022 01:00:00 (-06:00);08/04/2022 04:00:00 (-01:00);2136.0;22.0
+GRU-Brasil;KIN-Jamaica;Emirates;30/04/2022 00:00:00 (+10:00);30/04/2022 18:00:00 (+06:00);4686.0;22.0
+GRU-Brasil;LIS-Portugal;LATAM Airlines;23/04/2022 13:00:00 (+03:00);23/04/2022 13:00:00 (Z);2848.0;3.0
+GRU-Brasil;LIS-Portugal;AirFrance;30/04/2022 23:00:00 (-05:00);01/05/2022 16:00:00 (+08:00);2888.0;4.0
+GRU-Brasil;LIS-Portugal;AirCanada;20/04/2022 08:00:00 (-12:00);21/04/2022 09:00:00 (+04:00);2323.0;9.0
+GRU-Brasil;LIS-Portugal;Ethiopian Airlines;03/04/2022 08:00:00 (+07:00);03/04/2022 19:00:00 (+08:00);4986.0;10.0
+GRU-Brasil;LIS-Portugal;United Airlines;29/04/2022 08:00:00 (-07:00);29/04/2022 22:00:00 (-08:00);3066.0;15.0
+GRU-Brasil;LIS-Portugal;Gol Airlines;30/04/2022 17:00:00 (+03:00);01/05/2022 13:00:00 (+07:00);3007.0;16.0
+GRU-Brasil;LIS-Portugal;Qatar Airways;25/04/2022 08:00:00 (-03:00);26/04/2022 05:00:00 (-01:00);3651.0;19.0
+GRU-Brasil;LIS-Portugal;Emirates;11/04/2022 16:00:00 (-02:00);12/04/2022 12:00:00 (-02:00);4539.0;20.0
+GRU-Brasil;LIS-Portugal;American Airlines;28/04/2022 23:00:00 (-05:00);30/04/2022 06:00:00 (+04:00);3334.0;22.0
+GRU-Brasil;LIS-Portugal;Lufthansa;18/04/2022 08:00:00 (-01:00);19/04/2022 19:00:00 (+12:00);4192.0;22.0
+GRU-Brasil;MEL-Austrália;Emirates;03/04/2022 10:00:00 (-02:00);03/04/2022 02:00:00 (-11:00);2464.0;1.0
+GRU-Brasil;MEL-Austrália;AirCanada;27/04/2022 22:00:00 (+12:00);27/04/2022 16:00:00 (+04:00);4943.0;2.0
+GRU-Brasil;MEL-Austrália;Lufthansa;10/04/2022 14:00:00 (-07:00);11/04/2022 06:00:00 (+03:00);4848.0;6.0
+GRU-Brasil;MEL-Austrália;AirFrance;08/04/2022 05:00:00 (+02:00);08/04/2022 13:00:00 (+02:00);4061.0;8.0
+GRU-Brasil;MEL-Austrália;United Airlines;18/04/2022 16:00:00 (Z);19/04/2022 04:00:00 (+01:00);3928.0;11.0
+GRU-Brasil;MEL-Austrália;Qatar Airways;19/04/2022 13:00:00 (Z);20/04/2022 11:00:00 (+09:00);4587.0;13.0
+GRU-Brasil;MEL-Austrália;Ethiopian Airlines;06/04/2022 08:00:00 (-07:00);06/04/2022 21:00:00 (-10:00);4914.0;16.0
+GRU-Brasil;MEL-Austrália;Gol Airlines;13/04/2022 22:00:00 (-03:00);14/04/2022 08:00:00 (-11:00);3524.0;18.0
+GRU-Brasil;MEL-Austrália;American Airlines;23/04/2022 01:00:00 (-02:00);23/04/2022 23:00:00 (+01:00);4116.0;19.0
+GRU-Brasil;MEL-Austrália;LATAM Airlines;22/04/2022 21:00:00 (-05:00);24/04/2022 02:00:00 (+01:00);4775.0;23.0
+GRU-Brasil;YYC-Canada;LATAM Airlines;22/04/2022 02:00:00 (-06:00);22/04/2022 20:00:00 (+04:00);2591.0;8.0
+GRU-Brasil;YYC-Canada;Emirates;11/04/2022 22:00:00 (Z);11/04/2022 23:00:00 (-11:00);2781.0;12.0
+GRU-Brasil;YYC-Canada;Qatar Airways;07/04/2022 00:00:00 (-10:00);07/04/2022 20:00:00 (-02:00);3609.0;12.0
+GRU-Brasil;YYC-Canada;American Airlines;19/04/2022 01:00:00 (-09:00);19/04/2022 15:00:00 (-08:00);4341.0;13.0
+GRU-Brasil;YYC-Canada;AirCanada;21/04/2022 16:00:00 (-04:00);22/04/2022 09:00:00 (-01:00);4944.0;14.0
+GRU-Brasil;YYC-Canada;Ethiopian Airlines;23/04/2022 11:00:00 (Z);24/04/2022 02:00:00 (-01:00);4971.0;16.0
+GRU-Brasil;YYC-Canada;AirFrance;27/04/2022 12:00:00 (-01:00);28/04/2022 02:00:00 (-04:00);2211.0;17.0
+GRU-Brasil;YYC-Canada;Lufthansa;21/04/2022 18:00:00 (+09:00);21/04/2022 18:00:00 (-08:00);3547.0;17.0
+GRU-Brasil;YYC-Canada;Gol Airlines;03/04/2022 19:00:00 (+06:00);04/04/2022 10:00:00 (+03:00);2736.0;18.0
+GRU-Brasil;YYC-Canada;United Airlines;09/04/2022 20:00:00 (-09:00);11/04/2022 14:00:00 (+11:00);2957.0;22.0
+JFK-Estados Unidos;FEN-Brasil;Gol Airlines;20/04/2022 07:00:00 (+11:00);19/04/2022 09:00:00 (-12:00);3890.0;1.0
+JFK-Estados Unidos;FEN-Brasil;Qatar Airways;17/04/2022 15:00:00 (+04:00);17/04/2022 09:00:00 (-05:00);3929.0;3.0
+JFK-Estados Unidos;FEN-Brasil;American Airlines;01/04/2022 08:00:00 (+08:00);31/03/2022 21:00:00 (-07:00);4024.0;4.0
+JFK-Estados Unidos;FEN-Brasil;Emirates;14/04/2022 23:00:00 (-02:00);15/04/2022 00:00:00 (-08:00);4066.0;7.0
+JFK-Estados Unidos;FEN-Brasil;LATAM Airlines;13/04/2022 21:00:00 (-06:00);14/04/2022 16:00:00 (+04:00);3951.0;9.0
+JFK-Estados Unidos;FEN-Brasil;United Airlines;11/04/2022 01:00:00 (+08:00);11/04/2022 07:00:00 (+02:00);3181.0;12.0
+JFK-Estados Unidos;FEN-Brasil;Ethiopian Airlines;07/04/2022 16:00:00 (+02:00);07/04/2022 17:00:00 (-11:00);4133.0;14.0
+JFK-Estados Unidos;FEN-Brasil;AirCanada;16/04/2022 19:00:00 (Z);17/04/2022 16:00:00 (Z);4685.0;21.0
+JFK-Estados Unidos;FEN-Brasil;Lufthansa;07/04/2022 22:00:00 (-02:00);09/04/2022 11:00:00 (+11:00);3010.0;24.0
+JFK-Estados Unidos;FEN-Brasil;AirFrance;06/04/2022 07:00:00 (+08:00);07/04/2022 05:00:00 (+06:00);3313.0;24.0
+JFK-Estados Unidos;GRU-Brasil;Emirates;05/04/2022 20:00:00 (+12:00);05/04/2022 03:00:00 (-06:00);4710.0;1.0
+JFK-Estados Unidos;GRU-Brasil;LATAM Airlines;12/04/2022 01:00:00 (+04:00);12/04/2022 07:00:00 (+06:00);3364.0;4.0
+JFK-Estados Unidos;GRU-Brasil;United Airlines;21/04/2022 15:00:00 (+10:00);21/04/2022 19:00:00 (+08:00);3351.0;6.0
+JFK-Estados Unidos;GRU-Brasil;Ethiopian Airlines;14/04/2022 19:00:00 (-10:00);15/04/2022 05:00:00 (-09:00);2294.0;9.0
+JFK-Estados Unidos;GRU-Brasil;Gol Airlines;08/04/2022 22:00:00 (+09:00);08/04/2022 15:00:00 (-11:00);2438.0;13.0
+JFK-Estados Unidos;GRU-Brasil;AirFrance;27/04/2022 22:00:00 (-01:00);28/04/2022 08:00:00 (-05:00);4995.0;14.0
+JFK-Estados Unidos;GRU-Brasil;Qatar Airways;17/04/2022 13:00:00 (+12:00);18/04/2022 01:00:00 (+05:00);3789.0;19.0
+JFK-Estados Unidos;GRU-Brasil;AirCanada;29/04/2022 02:00:00 (+02:00);30/04/2022 00:00:00 (+02:00);3791.0;22.0
+JFK-Estados Unidos;GRU-Brasil;Lufthansa;07/04/2022 02:00:00 (Z);08/04/2022 09:00:00 (+09:00);4272.0;22.0
+JFK-Estados Unidos;GRU-Brasil;American Airlines;01/04/2022 17:00:00 (-01:00);02/04/2022 15:00:00 (-02:00);4067.0;23.0
+JFK-Estados Unidos;KIN-Jamaica;American Airlines;03/04/2022 08:00:00 (-07:00);03/04/2022 04:00:00 (-12:00);3202.0;1.0
+JFK-Estados Unidos;KIN-Jamaica;Qatar Airways;13/04/2022 07:00:00 (-11:00);14/04/2022 02:00:00 (+06:00);3502.0;2.0
+JFK-Estados Unidos;KIN-Jamaica;AirFrance;10/04/2022 05:00:00 (Z);10/04/2022 12:00:00 (+05:00);3992.0;2.0
+JFK-Estados Unidos;KIN-Jamaica;Gol Airlines;09/04/2022 23:00:00 (+09:00);09/04/2022 14:00:00 (-06:00);2943.0;6.0
+JFK-Estados Unidos;KIN-Jamaica;United Airlines;07/04/2022 22:00:00 (+11:00);07/04/2022 06:00:00 (-11:00);4234.0;6.0
+JFK-Estados Unidos;KIN-Jamaica;Ethiopian Airlines;24/04/2022 02:00:00 (-12:00);24/04/2022 15:00:00 (-06:00);4631.0;7.0
+JFK-Estados Unidos;KIN-Jamaica;Lufthansa;06/04/2022 16:00:00 (+11:00);06/04/2022 14:00:00 (Z);2073.0;9.0
+JFK-Estados Unidos;KIN-Jamaica;LATAM Airlines;11/04/2022 15:00:00 (+09:00);12/04/2022 05:00:00 (+03:00);2973.0;20.0
+JFK-Estados Unidos;KIN-Jamaica;AirCanada;19/04/2022 21:00:00 (+10:00);20/04/2022 22:00:00 (+12:00);2937.0;23.0
+JFK-Estados Unidos;KIN-Jamaica;Emirates;27/04/2022 03:00:00 (-11:00);28/04/2022 17:00:00 (+04:00);4153.0;23.0
+JFK-Estados Unidos;LIS-Portugal;Emirates;08/04/2022 13:00:00 (-09:00);09/04/2022 02:00:00 (+01:00);2348.0;3.0
+JFK-Estados Unidos;LIS-Portugal;Gol Airlines;22/04/2022 16:00:00 (Z);23/04/2022 05:00:00 (+06:00);2293.0;7.0
+JFK-Estados Unidos;LIS-Portugal;United Airlines;13/04/2022 22:00:00 (+08:00);13/04/2022 11:00:00 (-10:00);3880.0;7.0
+JFK-Estados Unidos;LIS-Portugal;AirFrance;19/04/2022 16:00:00 (+06:00);19/04/2022 14:00:00 (-09:00);4321.0;13.0
+JFK-Estados Unidos;LIS-Portugal;American Airlines;14/04/2022 19:00:00 (Z);15/04/2022 04:00:00 (-04:00);4472.0;13.0
+JFK-Estados Unidos;LIS-Portugal;Qatar Airways;17/04/2022 02:00:00 (-08:00);18/04/2022 10:00:00 (+10:00);4918.0;14.0
+JFK-Estados Unidos;LIS-Portugal;LATAM Airlines;04/04/2022 23:00:00 (+07:00);05/04/2022 03:00:00 (-04:00);4264.0;15.0
+JFK-Estados Unidos;LIS-Portugal;Ethiopian Airlines;21/04/2022 07:00:00 (-06:00);22/04/2022 16:00:00 (+06:00);4717.0;21.0
+JFK-Estados Unidos;LIS-Portugal;AirCanada;06/04/2022 01:00:00 (-07:00);07/04/2022 02:00:00 (-04:00);3029.0;22.0
+JFK-Estados Unidos;LIS-Portugal;Lufthansa;27/04/2022 19:00:00 (-06:00);28/04/2022 17:00:00 (-07:00);2311.0;23.0
+JFK-Estados Unidos;MEL-Austrália;Emirates;26/04/2022 13:00:00 (+06:00);25/04/2022 21:00:00 (-11:00);2522.0;1.0
+JFK-Estados Unidos;MEL-Austrália;AirCanada;11/04/2022 07:00:00 (+12:00);10/04/2022 20:00:00 (-01:00);3504.0;2.0
+JFK-Estados Unidos;MEL-Austrália;Lufthansa;04/04/2022 23:00:00 (+11:00);04/04/2022 08:00:00 (-06:00);3656.0;2.0
+JFK-Estados Unidos;MEL-Austrália;LATAM Airlines;04/04/2022 21:00:00 (Z);05/04/2022 05:00:00 (+05:00);2129.0;3.0
+JFK-Estados Unidos;MEL-Austrália;American Airlines;24/04/2022 04:00:00 (+04:00);24/04/2022 07:00:00 (-01:00);2907.0;8.0
+JFK-Estados Unidos;MEL-Austrália;Qatar Airways;11/04/2022 14:00:00 (-07:00);12/04/2022 06:00:00 (+01:00);3510.0;8.0
+JFK-Estados Unidos;MEL-Austrália;Ethiopian Airlines;19/04/2022 16:00:00 (+06:00);19/04/2022 21:00:00 (-01:00);2981.0;12.0
+JFK-Estados Unidos;MEL-Austrália;Gol Airlines;27/04/2022 14:00:00 (+04:00);28/04/2022 07:00:00 (+05:00);2550.0;16.0
+JFK-Estados Unidos;MEL-Austrália;United Airlines;04/04/2022 05:00:00 (+12:00);04/04/2022 17:00:00 (+08:00);4746.0;16.0
+JFK-Estados Unidos;MEL-Austrália;AirFrance;05/04/2022 02:00:00 (+04:00);05/04/2022 21:00:00 (+04:00);2600.0;19.0
+JFK-Estados Unidos;MEX-México;Ethiopian Airlines;29/04/2022 03:00:00 (-07:00);29/04/2022 22:00:00 (+11:00);3037.0;1.0
+JFK-Estados Unidos;MEX-México;Qatar Airways;15/04/2022 01:00:00 (-12:00);16/04/2022 02:00:00 (+09:00);3642.0;4.0
+JFK-Estados Unidos;MEX-México;AirCanada;10/04/2022 01:00:00 (+10:00);10/04/2022 07:00:00 (+04:00);2645.0;12.0
+JFK-Estados Unidos;MEX-México;Lufthansa;26/04/2022 06:00:00 (+02:00);26/04/2022 10:00:00 (-07:00);2918.0;13.0
+JFK-Estados Unidos;MEX-México;LATAM Airlines;20/04/2022 06:00:00 (-05:00);20/04/2022 20:00:00 (-04:00);4084.0;13.0
+JFK-Estados Unidos;MEX-México;AirFrance;19/04/2022 10:00:00 (-08:00);20/04/2022 05:00:00 (-04:00);4140.0;15.0
+JFK-Estados Unidos;MEX-México;Gol Airlines;10/04/2022 07:00:00 (+03:00);10/04/2022 09:00:00 (-10:00);4319.0;15.0
+JFK-Estados Unidos;MEX-México;United Airlines;29/04/2022 11:00:00 (-09:00);30/04/2022 06:00:00 (-06:00);4712.0;16.0
+JFK-Estados Unidos;MEX-México;American Airlines;01/04/2022 01:00:00 (-10:00);02/04/2022 01:00:00 (-05:00);4677.0;19.0
+JFK-Estados Unidos;MEX-México;Emirates;01/04/2022 14:00:00 (+12:00);01/04/2022 19:00:00 (-07:00);3545.0;24.0
+JFK-Estados Unidos;NRT-Japão;United Airlines;29/04/2022 17:00:00 (+03:00);29/04/2022 04:00:00 (-12:00);4112.0;2.0
+JFK-Estados Unidos;NRT-Japão;AirFrance;19/04/2022 16:00:00 (+09:00);19/04/2022 06:00:00 (-08:00);2601.0;7.0
+JFK-Estados Unidos;NRT-Japão;Qatar Airways;23/04/2022 12:00:00 (+01:00);24/04/2022 10:00:00 (+12:00);2076.0;11.0
+JFK-Estados Unidos;NRT-Japão;AirCanada;13/04/2022 08:00:00 (-03:00);14/04/2022 09:00:00 (+11:00);2513.0;11.0
+JFK-Estados Unidos;NRT-Japão;Gol Airlines;09/04/2022 20:00:00 (+06:00);10/04/2022 04:00:00 (Z);3397.0;14.0
+JFK-Estados Unidos;NRT-Japão;Lufthansa;20/04/2022 04:00:00 (+02:00);21/04/2022 01:00:00 (+07:00);3996.0;16.0
+JFK-Estados Unidos;NRT-Japão;LATAM Airlines;05/04/2022 09:00:00 (-09:00);06/04/2022 02:00:00 (-11:00);3253.0;19.0
+JFK-Estados Unidos;NRT-Japão;Ethiopian Airlines;02/04/2022 13:00:00 (+06:00);02/04/2022 19:00:00 (-10:00);4937.0;22.0
+JFK-Estados Unidos;NRT-Japão;American Airlines;26/04/2022 09:00:00 (+08:00);26/04/2022 20:00:00 (-04:00);2842.0;23.0
+JFK-Estados Unidos;NRT-Japão;Emirates;12/04/2022 18:00:00 (+06:00);13/04/2022 14:00:00 (+03:00);4516.0;23.0
+JFK-Estados Unidos;PEK-China;LATAM Airlines;09/04/2022 09:00:00 (-03:00);09/04/2022 15:00:00 (-07:00);4441.0;10.0
+JFK-Estados Unidos;PEK-China;Emirates;30/04/2022 04:00:00 (-06:00);30/04/2022 22:00:00 (+01:00);4967.0;11.0
+JFK-Estados Unidos;PEK-China;United Airlines;30/04/2022 01:00:00 (-04:00);30/04/2022 15:00:00 (-04:00);3696.0;14.0
+JFK-Estados Unidos;PEK-China;AirFrance;01/04/2022 02:00:00 (+06:00);01/04/2022 00:00:00 (-12:00);4571.0;16.0
+JFK-Estados Unidos;PEK-China;AirCanada;09/04/2022 20:00:00 (+06:00);10/04/2022 12:00:00 (+06:00);4653.0;16.0
+JFK-Estados Unidos;PEK-China;American Airlines;14/04/2022 04:00:00 (-02:00);15/04/2022 03:00:00 (+01:00);2575.0;20.0
+JFK-Estados Unidos;PEK-China;Qatar Airways;13/04/2022 00:00:00 (+11:00);13/04/2022 07:00:00 (-02:00);4737.0;20.0
+JFK-Estados Unidos;PEK-China;Gol Airlines;13/04/2022 22:00:00 (-03:00);15/04/2022 06:00:00 (+08:00);2061.0;21.0
+JFK-Estados Unidos;PEK-China;Lufthansa;23/04/2022 14:00:00 (-05:00);24/04/2022 14:00:00 (-02:00);4678.0;21.0
+JFK-Estados Unidos;PEK-China;Ethiopian Airlines;28/04/2022 23:00:00 (+06:00);30/04/2022 02:00:00 (+09:00);2419.0;24.0
+JFK-Estados Unidos;YYC-Canada;Qatar Airways;21/04/2022 12:00:00 (+07:00);21/04/2022 10:00:00 (+04:00);2252.0;1.0
+JFK-Estados Unidos;YYC-Canada;AirCanada;28/04/2022 16:00:00 (+10:00);28/04/2022 03:00:00 (-04:00);3911.0;1.0
+JFK-Estados Unidos;YYC-Canada;LATAM Airlines;13/04/2022 05:00:00 (-06:00);13/04/2022 18:00:00 (Z);3637.0;7.0
+JFK-Estados Unidos;YYC-Canada;Gol Airlines;08/04/2022 23:00:00 (-09:00);09/04/2022 14:00:00 (-02:00);2004.0;8.0
+JFK-Estados Unidos;YYC-Canada;American Airlines;03/04/2022 01:00:00 (Z);03/04/2022 13:00:00 (+03:00);4807.0;9.0
+JFK-Estados Unidos;YYC-Canada;Ethiopian Airlines;10/04/2022 21:00:00 (-06:00);11/04/2022 10:00:00 (-05:00);2078.0;12.0
+JFK-Estados Unidos;YYC-Canada;United Airlines;17/04/2022 15:00:00 (-05:00);18/04/2022 12:00:00 (Z);3273.0;16.0
+JFK-Estados Unidos;YYC-Canada;Lufthansa;04/04/2022 04:00:00 (+05:00);04/04/2022 10:00:00 (-07:00);2355.0;18.0
+JFK-Estados Unidos;YYC-Canada;Emirates;01/04/2022 07:00:00 (-10:00);02/04/2022 04:00:00 (-09:00);3897.0;20.0
+JFK-Estados Unidos;YYC-Canada;AirFrance;20/04/2022 22:00:00 (+03:00);22/04/2022 05:00:00 (+12:00);2272.0;22.0
+KIN-Jamaica;FEN-Brasil;Ethiopian Airlines;29/04/2022 02:00:00 (-12:00);29/04/2022 16:00:00 (+01:00);2718.0;1.0
+KIN-Jamaica;FEN-Brasil;Lufthansa;29/04/2022 19:00:00 (+05:00);29/04/2022 13:00:00 (-04:00);2938.0;3.0
+KIN-Jamaica;FEN-Brasil;American Airlines;21/04/2022 08:00:00 (+02:00);21/04/2022 05:00:00 (-06:00);2297.0;5.0
+KIN-Jamaica;FEN-Brasil;Emirates;22/04/2022 10:00:00 (-09:00);22/04/2022 22:00:00 (-07:00);2167.0;10.0
+KIN-Jamaica;FEN-Brasil;Qatar Airways;08/04/2022 13:00:00 (+08:00);08/04/2022 23:00:00 (+06:00);2071.0;12.0
+KIN-Jamaica;FEN-Brasil;United Airlines;14/04/2022 17:00:00 (+09:00);15/04/2022 00:00:00 (+04:00);2141.0;12.0
+KIN-Jamaica;FEN-Brasil;LATAM Airlines;26/04/2022 18:00:00 (-01:00);27/04/2022 11:00:00 (-01:00);3682.0;17.0
+KIN-Jamaica;FEN-Brasil;AirFrance;26/04/2022 14:00:00 (-01:00);27/04/2022 05:00:00 (-03:00);4680.0;17.0
+KIN-Jamaica;FEN-Brasil;AirCanada;22/04/2022 10:00:00 (-11:00);23/04/2022 06:00:00 (-12:00);3408.0;21.0
+KIN-Jamaica;FEN-Brasil;Gol Airlines;01/04/2022 05:00:00 (+03:00);02/04/2022 06:00:00 (+05:00);2286.0;23.0
+KIN-Jamaica;LIS-Portugal;United Airlines;07/04/2022 11:00:00 (+08:00);06/04/2022 16:00:00 (-12:00);4160.0;1.0
+KIN-Jamaica;LIS-Portugal;Emirates;27/04/2022 14:00:00 (-01:00);27/04/2022 05:00:00 (-11:00);4309.0;1.0
+KIN-Jamaica;LIS-Portugal;Qatar Airways;24/04/2022 11:00:00 (-01:00);24/04/2022 13:00:00 (-06:00);4074.0;7.0
+KIN-Jamaica;LIS-Portugal;AirCanada;11/04/2022 02:00:00 (+07:00);11/04/2022 16:00:00 (+12:00);4934.0;9.0
+KIN-Jamaica;LIS-Portugal;American Airlines;06/04/2022 19:00:00 (+09:00);07/04/2022 01:00:00 (+01:00);3062.0;14.0
+KIN-Jamaica;LIS-Portugal;Lufthansa;27/04/2022 17:00:00 (-07:00);28/04/2022 08:00:00 (-07:00);4785.0;15.0
+KIN-Jamaica;LIS-Portugal;Ethiopian Airlines;10/04/2022 14:00:00 (-08:00);11/04/2022 14:00:00 (-02:00);2857.0;18.0
+KIN-Jamaica;LIS-Portugal;Gol Airlines;19/04/2022 04:00:00 (+12:00);19/04/2022 17:00:00 (+07:00);2970.0;18.0
+KIN-Jamaica;LIS-Portugal;AirFrance;02/04/2022 08:00:00 (+09:00);02/04/2022 15:00:00 (-02:00);4724.0;18.0
+KIN-Jamaica;LIS-Portugal;LATAM Airlines;25/04/2022 14:00:00 (+10:00);25/04/2022 21:00:00 (-04:00);3102.0;21.0
+KIN-Jamaica;MEL-Austrália;AirFrance;27/04/2022 08:00:00 (-08:00);27/04/2022 09:00:00 (-09:00);3540.0;2.0
+KIN-Jamaica;MEL-Austrália;Qatar Airways;03/04/2022 15:00:00 (-06:00);04/04/2022 03:00:00 (+02:00);3547.0;4.0
+KIN-Jamaica;MEL-Austrália;Gol Airlines;25/04/2022 14:00:00 (+10:00);25/04/2022 19:00:00 (+10:00);2155.0;5.0
+KIN-Jamaica;MEL-Austrália;United Airlines;30/04/2022 04:00:00 (+05:00);30/04/2022 09:00:00 (-01:00);2428.0;11.0
+KIN-Jamaica;MEL-Austrália;Ethiopian Airlines;09/04/2022 02:00:00 (-01:00);09/04/2022 13:00:00 (-04:00);4410.0;14.0
+KIN-Jamaica;MEL-Austrália;Lufthansa;04/04/2022 20:00:00 (Z);05/04/2022 02:00:00 (-12:00);4815.0;18.0
+KIN-Jamaica;MEL-Austrália;AirCanada;23/04/2022 04:00:00 (-03:00);24/04/2022 03:00:00 (+01:00);3592.0;19.0
+KIN-Jamaica;MEL-Austrália;Emirates;27/04/2022 15:00:00 (+05:00);28/04/2022 18:00:00 (+12:00);3600.0;20.0
+KIN-Jamaica;MEL-Austrália;LATAM Airlines;15/04/2022 19:00:00 (-01:00);16/04/2022 13:00:00 (-05:00);2044.0;22.0
+KIN-Jamaica;MEL-Austrália;American Airlines;19/04/2022 02:00:00 (+09:00);20/04/2022 01:00:00 (+09:00);3052.0;23.0
+KIN-Jamaica;YYC-Canada;LATAM Airlines;26/04/2022 23:00:00 (+09:00);26/04/2022 03:00:00 (-12:00);3171.0;1.0
+KIN-Jamaica;YYC-Canada;Emirates;20/04/2022 11:00:00 (+12:00);20/04/2022 20:00:00 (+12:00);3113.0;9.0
+KIN-Jamaica;YYC-Canada;American Airlines;01/04/2022 11:00:00 (+01:00);02/04/2022 02:00:00 (+06:00);3893.0;10.0
+KIN-Jamaica;YYC-Canada;United Airlines;18/04/2022 07:00:00 (Z);18/04/2022 19:00:00 (-02:00);2990.0;14.0
+KIN-Jamaica;YYC-Canada;Gol Airlines;07/04/2022 18:00:00 (+06:00);08/04/2022 06:00:00 (+02:00);4472.0;16.0
+KIN-Jamaica;YYC-Canada;Qatar Airways;26/04/2022 20:00:00 (-04:00);28/04/2022 03:00:00 (+08:00);3792.0;19.0
+KIN-Jamaica;YYC-Canada;Lufthansa;19/04/2022 07:00:00 (-05:00);20/04/2022 07:00:00 (-01:00);3757.0;20.0
+KIN-Jamaica;YYC-Canada;AirCanada;29/04/2022 15:00:00 (-08:00);30/04/2022 09:00:00 (-11:00);2454.0;21.0
+KIN-Jamaica;YYC-Canada;Ethiopian Airlines;24/04/2022 19:00:00 (-03:00);25/04/2022 12:00:00 (-07:00);3693.0;21.0
+KIN-Jamaica;YYC-Canada;AirFrance;03/04/2022 04:00:00 (-02:00);04/04/2022 07:00:00 (+02:00);3249.0;23.0
+MEL-Austrália;LIS-Portugal;AirFrance;23/04/2022 03:00:00 (-05:00);22/04/2022 22:00:00 (-11:00);2459.0;1.0
+MEL-Austrália;LIS-Portugal;LATAM Airlines;15/04/2022 19:00:00 (-10:00);16/04/2022 18:00:00 (+12:00);2707.0;1.0
+MEL-Austrália;LIS-Portugal;Emirates;12/04/2022 08:00:00 (+01:00);12/04/2022 19:00:00 (+10:00);4527.0;2.0
+MEL-Austrália;LIS-Portugal;American Airlines;18/04/2022 03:00:00 (-08:00);18/04/2022 18:00:00 (-03:00);2507.0;10.0
+MEL-Austrália;LIS-Portugal;AirCanada;20/04/2022 04:00:00 (-05:00);20/04/2022 12:00:00 (-12:00);3165.0;15.0
+MEL-Austrália;LIS-Portugal;Lufthansa;25/04/2022 17:00:00 (-05:00);26/04/2022 19:00:00 (+06:00);4276.0;15.0
+MEL-Austrália;LIS-Portugal;Qatar Airways;16/04/2022 02:00:00 (-04:00);17/04/2022 01:00:00 (+03:00);2795.0;16.0
+MEL-Austrália;LIS-Portugal;United Airlines;14/04/2022 03:00:00 (-06:00);15/04/2022 01:00:00 (-02:00);2755.0;18.0
+MEL-Austrália;LIS-Portugal;Gol Airlines;30/04/2022 20:00:00 (+10:00);01/05/2022 14:00:00 (+09:00);4052.0;19.0
+MEL-Austrália;LIS-Portugal;Ethiopian Airlines;28/04/2022 11:00:00 (-10:00);29/04/2022 21:00:00 (Z);2878.0;24.0
+MEX-México;FEN-Brasil;Lufthansa;11/04/2022 13:00:00 (+09:00);11/04/2022 07:00:00 (-03:00);4432.0;6.0
+MEX-México;FEN-Brasil;United Airlines;09/04/2022 10:00:00 (+11:00);09/04/2022 06:00:00 (Z);3476.0;7.0
+MEX-México;FEN-Brasil;Qatar Airways;07/04/2022 00:00:00 (-03:00);07/04/2022 14:00:00 (-05:00);3233.0;16.0
+MEX-México;FEN-Brasil;Gol Airlines;20/04/2022 00:00:00 (+08:00);20/04/2022 00:00:00 (-09:00);4099.0;17.0
+MEX-México;FEN-Brasil;AirCanada;20/04/2022 02:00:00 (-05:00);20/04/2022 20:00:00 (-04:00);4624.0;17.0
+MEX-México;FEN-Brasil;Emirates;28/04/2022 23:00:00 (-01:00);29/04/2022 11:00:00 (-09:00);2932.0;20.0
+MEX-México;FEN-Brasil;LATAM Airlines;08/04/2022 11:00:00 (+03:00);08/04/2022 21:00:00 (-08:00);3620.0;21.0
+MEX-México;FEN-Brasil;Ethiopian Airlines;03/04/2022 21:00:00 (+10:00);04/04/2022 00:00:00 (-08:00);4078.0;21.0
+MEX-México;FEN-Brasil;AirFrance;13/04/2022 15:00:00 (+08:00);14/04/2022 12:00:00 (+07:00);4506.0;22.0
+MEX-México;FEN-Brasil;American Airlines;12/04/2022 05:00:00 (-02:00);13/04/2022 08:00:00 (+02:00);3785.0;23.0
+MEX-México;GRU-Brasil;Emirates;14/04/2022 18:00:00 (-01:00);14/04/2022 14:00:00 (-07:00);4018.0;2.0
+MEX-México;GRU-Brasil;AirFrance;05/04/2022 15:00:00 (-07:00);06/04/2022 12:00:00 (+08:00);2455.0;6.0
+MEX-México;GRU-Brasil;AirCanada;16/04/2022 21:00:00 (+03:00);17/04/2022 00:00:00 (-01:00);2372.0;7.0
+MEX-México;GRU-Brasil;United Airlines;05/04/2022 19:00:00 (-11:00);06/04/2022 06:00:00 (-10:00);4667.0;10.0
+MEX-México;GRU-Brasil;Lufthansa;13/04/2022 22:00:00 (-04:00);14/04/2022 04:00:00 (-09:00);3943.0;11.0
+MEX-México;GRU-Brasil;Ethiopian Airlines;29/04/2022 21:00:00 (+10:00);29/04/2022 20:00:00 (-06:00);3355.0;15.0
+MEX-México;GRU-Brasil;Qatar Airways;14/04/2022 10:00:00 (-04:00);14/04/2022 22:00:00 (-09:00);4933.0;17.0
+MEX-México;GRU-Brasil;LATAM Airlines;20/04/2022 06:00:00 (-02:00);21/04/2022 15:00:00 (+12:00);4085.0;19.0
+MEX-México;GRU-Brasil;Gol Airlines;24/04/2022 23:00:00 (-03:00);25/04/2022 18:00:00 (-05:00);4074.0;21.0
+MEX-México;GRU-Brasil;American Airlines;02/04/2022 02:00:00 (+06:00);02/04/2022 20:00:00 (Z);3905.0;24.0
+MEX-México;KIN-Jamaica;Ethiopian Airlines;15/04/2022 23:00:00 (-12:00);16/04/2022 21:00:00 (+09:00);3495.0;1.0
+MEX-México;KIN-Jamaica;Emirates;04/04/2022 17:00:00 (+09:00);04/04/2022 05:00:00 (-06:00);3545.0;3.0
+MEX-México;KIN-Jamaica;LATAM Airlines;01/04/2022 15:00:00 (+07:00);01/04/2022 12:00:00 (-03:00);2572.0;7.0
+MEX-México;KIN-Jamaica;Lufthansa;22/04/2022 08:00:00 (+12:00);22/04/2022 10:00:00 (+05:00);4461.0;9.0
+MEX-México;KIN-Jamaica;Gol Airlines;02/04/2022 19:00:00 (+10:00);03/04/2022 03:00:00 (+08:00);2015.0;10.0
+MEX-México;KIN-Jamaica;American Airlines;14/04/2022 20:00:00 (-04:00);15/04/2022 14:00:00 (+02:00);3747.0;12.0
+MEX-México;KIN-Jamaica;United Airlines;13/04/2022 01:00:00 (+11:00);13/04/2022 00:00:00 (-04:00);2841.0;14.0
+MEX-México;KIN-Jamaica;Qatar Airways;28/04/2022 05:00:00 (-03:00);29/04/2022 13:00:00 (+10:00);3797.0;19.0
+MEX-México;KIN-Jamaica;AirFrance;03/04/2022 20:00:00 (-01:00);04/04/2022 10:00:00 (-06:00);4658.0;19.0
+MEX-México;KIN-Jamaica;AirCanada;15/04/2022 19:00:00 (+04:00);16/04/2022 10:00:00 (-04:00);2163.0;23.0
+MEX-México;LIS-Portugal;United Airlines;09/04/2022 22:00:00 (-05:00);10/04/2022 13:00:00 (+08:00);4824.0;2.0
+MEX-México;LIS-Portugal;Qatar Airways;09/04/2022 02:00:00 (+01:00);09/04/2022 05:00:00 (-04:00);3951.0;8.0
+MEX-México;LIS-Portugal;AirFrance;15/04/2022 17:00:00 (+10:00);15/04/2022 07:00:00 (-09:00);2871.0;9.0
+MEX-México;LIS-Portugal;American Airlines;22/04/2022 13:00:00 (-12:00);23/04/2022 03:00:00 (-10:00);2825.0;12.0
+MEX-México;LIS-Portugal;Gol Airlines;18/04/2022 22:00:00 (+06:00);19/04/2022 15:00:00 (+08:00);3331.0;15.0
+MEX-México;LIS-Portugal;Ethiopian Airlines;02/04/2022 08:00:00 (Z);03/04/2022 01:00:00 (+01:00);3258.0;16.0
+MEX-México;LIS-Portugal;LATAM Airlines;14/04/2022 12:00:00 (-09:00);15/04/2022 15:00:00 (+01:00);2217.0;17.0
+MEX-México;LIS-Portugal;AirCanada;04/04/2022 06:00:00 (+08:00);04/04/2022 13:00:00 (-05:00);3400.0;20.0
+MEX-México;LIS-Portugal;Emirates;11/04/2022 06:00:00 (-09:00);12/04/2022 11:00:00 (-02:00);2246.0;22.0
+MEX-México;LIS-Portugal;Lufthansa;11/04/2022 18:00:00 (+04:00);12/04/2022 05:00:00 (-07:00);2654.0;22.0
+MEX-México;MEL-Austrália;Emirates;12/04/2022 18:00:00 (-02:00);12/04/2022 16:00:00 (-06:00);3914.0;2.0
+MEX-México;MEL-Austrália;Qatar Airways;11/04/2022 05:00:00 (-07:00);11/04/2022 06:00:00 (-12:00);4455.0;6.0
+MEX-México;MEL-Austrália;AirFrance;19/04/2022 21:00:00 (+01:00);20/04/2022 10:00:00 (+04:00);2255.0;10.0
+MEX-México;MEL-Austrália;United Airlines;27/04/2022 13:00:00 (-12:00);28/04/2022 16:00:00 (+05:00);4800.0;10.0
+MEX-México;MEL-Austrália;American Airlines;02/04/2022 17:00:00 (-01:00);03/04/2022 17:00:00 (+11:00);3264.0;12.0
+MEX-México;MEL-Austrália;Gol Airlines;30/04/2022 01:00:00 (-02:00);30/04/2022 19:00:00 (+03:00);2588.0;13.0
+MEX-México;MEL-Austrália;Ethiopian Airlines;20/04/2022 15:00:00 (+03:00);21/04/2022 13:00:00 (+08:00);2669.0;17.0
+MEX-México;MEL-Austrália;AirCanada;22/04/2022 04:00:00 (-10:00);22/04/2022 21:00:00 (-12:00);2231.0;19.0
+MEX-México;MEL-Austrália;LATAM Airlines;02/04/2022 23:00:00 (Z);03/04/2022 15:00:00 (-06:00);4173.0;22.0
+MEX-México;MEL-Austrália;Lufthansa;08/04/2022 15:00:00 (+06:00);09/04/2022 10:00:00 (+02:00);3527.0;23.0
+MEX-México;NRT-Japão;Gol Airlines;19/04/2022 15:00:00 (-09:00);19/04/2022 19:00:00 (-06:00);2983.0;1.0
+MEX-México;NRT-Japão;American Airlines;04/04/2022 16:00:00 (+02:00);04/04/2022 11:00:00 (-05:00);2748.0;2.0
+MEX-México;NRT-Japão;Lufthansa;03/04/2022 19:00:00 (+03:00);03/04/2022 11:00:00 (-09:00);4679.0;4.0
+MEX-México;NRT-Japão;LATAM Airlines;22/04/2022 22:00:00 (-09:00);23/04/2022 18:00:00 (+03:00);3595.0;8.0
+MEX-México;NRT-Japão;Qatar Airways;20/04/2022 04:00:00 (-01:00);21/04/2022 00:00:00 (+09:00);2405.0;10.0
+MEX-México;NRT-Japão;Ethiopian Airlines;02/04/2022 09:00:00 (-02:00);03/04/2022 04:00:00 (+07:00);3256.0;10.0
+MEX-México;NRT-Japão;AirCanada;24/04/2022 01:00:00 (-01:00);24/04/2022 19:00:00 (+07:00);3770.0;10.0
+MEX-México;NRT-Japão;AirFrance;18/04/2022 13:00:00 (-08:00);19/04/2022 07:00:00 (-02:00);4096.0;12.0
+MEX-México;NRT-Japão;United Airlines;09/04/2022 04:00:00 (Z);09/04/2022 22:00:00 (-06:00);3684.0;24.0
+MEX-México;NRT-Japão;Emirates;18/04/2022 01:00:00 (+01:00);18/04/2022 21:00:00 (-03:00);3754.0;24.0
+MEX-México;PEK-China;Qatar Airways;28/04/2022 09:00:00 (+02:00);28/04/2022 09:00:00 (-03:00);3520.0;5.0
+MEX-México;PEK-China;American Airlines;29/04/2022 13:00:00 (-08:00);30/04/2022 08:00:00 (+05:00);4143.0;6.0
+MEX-México;PEK-China;AirFrance;07/04/2022 11:00:00 (-03:00);07/04/2022 22:00:00 (Z);4263.0;8.0
+MEX-México;PEK-China;Ethiopian Airlines;06/04/2022 23:00:00 (-04:00);07/04/2022 04:00:00 (-11:00);2061.0;12.0
+MEX-México;PEK-China;Gol Airlines;30/04/2022 08:00:00 (+03:00);30/04/2022 05:00:00 (-12:00);3507.0;12.0
+MEX-México;PEK-China;LATAM Airlines;06/04/2022 09:00:00 (+09:00);06/04/2022 17:00:00 (+04:00);2974.0;13.0
+MEX-México;PEK-China;Lufthansa;20/04/2022 04:00:00 (-07:00);20/04/2022 18:00:00 (-06:00);4290.0;13.0
+MEX-México;PEK-China;Emirates;10/04/2022 22:00:00 (-05:00);11/04/2022 16:00:00 (Z);4348.0;13.0
+MEX-México;PEK-China;AirCanada;05/04/2022 08:00:00 (+07:00);05/04/2022 12:00:00 (-03:00);3962.0;14.0
+MEX-México;PEK-China;United Airlines;12/04/2022 05:00:00 (-08:00);13/04/2022 11:00:00 (+04:00);3952.0;18.0
+MEX-México;YYC-Canada;Ethiopian Airlines;05/04/2022 20:00:00 (Z);05/04/2022 10:00:00 (-12:00);2925.0;2.0
+MEX-México;YYC-Canada;Gol Airlines;21/04/2022 23:00:00 (Z);22/04/2022 03:00:00 (Z);4786.0;4.0
+MEX-México;YYC-Canada;AirFrance;19/04/2022 13:00:00 (+05:00);19/04/2022 21:00:00 (+07:00);2301.0;6.0
+MEX-México;YYC-Canada;Lufthansa;13/04/2022 22:00:00 (-10:00);14/04/2022 15:00:00 (-01:00);2341.0;8.0
+MEX-México;YYC-Canada;Emirates;26/04/2022 11:00:00 (+01:00);26/04/2022 10:00:00 (-11:00);2129.0;11.0
+MEX-México;YYC-Canada;American Airlines;08/04/2022 21:00:00 (+12:00);09/04/2022 05:00:00 (+07:00);3616.0;13.0
+MEX-México;YYC-Canada;LATAM Airlines;30/04/2022 13:00:00 (+07:00);01/05/2022 08:00:00 (+11:00);4846.0;15.0
+MEX-México;YYC-Canada;United Airlines;07/04/2022 08:00:00 (-01:00);08/04/2022 14:00:00 (+11:00);4941.0;18.0
+MEX-México;YYC-Canada;Qatar Airways;27/04/2022 04:00:00 (+02:00);28/04/2022 13:00:00 (+12:00);3005.0;23.0
+MEX-México;YYC-Canada;AirCanada;13/04/2022 11:00:00 (+07:00);13/04/2022 19:00:00 (-08:00);4693.0;23.0
+NRT-Japão;FEN-Brasil;Ethiopian Airlines;28/04/2022 21:00:00 (+01:00);28/04/2022 21:00:00 (Z);2810.0;1.0
+NRT-Japão;FEN-Brasil;Qatar Airways;11/04/2022 23:00:00 (+08:00);11/04/2022 05:00:00 (-12:00);3994.0;2.0
+NRT-Japão;FEN-Brasil;Gol Airlines;05/04/2022 09:00:00 (+07:00);05/04/2022 18:00:00 (+12:00);2748.0;4.0
+NRT-Japão;FEN-Brasil;American Airlines;04/04/2022 14:00:00 (+10:00);04/04/2022 10:00:00 (+02:00);2843.0;4.0
+NRT-Japão;FEN-Brasil;United Airlines;10/04/2022 14:00:00 (Z);11/04/2022 08:00:00 (+12:00);4718.0;6.0
+NRT-Japão;FEN-Brasil;LATAM Airlines;08/04/2022 06:00:00 (+08:00);08/04/2022 04:00:00 (-02:00);3293.0;8.0
+NRT-Japão;FEN-Brasil;AirFrance;22/04/2022 03:00:00 (-04:00);23/04/2022 05:00:00 (+12:00);4117.0;10.0
+NRT-Japão;FEN-Brasil;Emirates;02/04/2022 10:00:00 (+05:00);02/04/2022 09:00:00 (-08:00);4854.0;12.0
+NRT-Japão;FEN-Brasil;AirCanada;11/04/2022 03:00:00 (+12:00);11/04/2022 04:00:00 (-04:00);4740.0;17.0
+NRT-Japão;FEN-Brasil;Lufthansa;29/04/2022 03:00:00 (-04:00);30/04/2022 05:00:00 (+01:00);2317.0;21.0
+NRT-Japão;GRU-Brasil;AirFrance;13/04/2022 19:00:00 (-03:00);14/04/2022 11:00:00 (+12:00);4063.0;1.0
+NRT-Japão;GRU-Brasil;Emirates;20/04/2022 18:00:00 (-09:00);21/04/2022 01:00:00 (-09:00);3625.0;7.0
+NRT-Japão;GRU-Brasil;United Airlines;03/04/2022 00:00:00 (-06:00);03/04/2022 20:00:00 (+07:00);3697.0;7.0
+NRT-Japão;GRU-Brasil;Lufthansa;03/04/2022 12:00:00 (+02:00);03/04/2022 12:00:00 (-05:00);4098.0;7.0
+NRT-Japão;GRU-Brasil;American Airlines;23/04/2022 22:00:00 (+09:00);23/04/2022 17:00:00 (-07:00);4289.0;11.0
+NRT-Japão;GRU-Brasil;Gol Airlines;26/04/2022 17:00:00 (-11:00);27/04/2022 12:00:00 (-05:00);2594.0;13.0
+NRT-Japão;GRU-Brasil;Qatar Airways;26/04/2022 09:00:00 (+04:00);26/04/2022 09:00:00 (-12:00);2972.0;16.0
+NRT-Japão;GRU-Brasil;LATAM Airlines;19/04/2022 02:00:00 (+08:00);19/04/2022 02:00:00 (-08:00);4304.0;16.0
+NRT-Japão;GRU-Brasil;AirCanada;28/04/2022 16:00:00 (-01:00);29/04/2022 19:00:00 (+08:00);2746.0;18.0
+NRT-Japão;GRU-Brasil;Ethiopian Airlines;25/04/2022 06:00:00 (+10:00);25/04/2022 05:00:00 (-10:00);2263.0;19.0
+NRT-Japão;KIN-Jamaica;Qatar Airways;26/04/2022 16:00:00 (-01:00);27/04/2022 00:00:00 (+04:00);4942.0;3.0
+NRT-Japão;KIN-Jamaica;American Airlines;24/04/2022 19:00:00 (+09:00);24/04/2022 23:00:00 (+09:00);4269.0;4.0
+NRT-Japão;KIN-Jamaica;Gol Airlines;14/04/2022 20:00:00 (+01:00);15/04/2022 08:00:00 (+08:00);4646.0;5.0
+NRT-Japão;KIN-Jamaica;AirCanada;18/04/2022 20:00:00 (+11:00);18/04/2022 23:00:00 (+05:00);3563.0;9.0
+NRT-Japão;KIN-Jamaica;AirFrance;24/04/2022 08:00:00 (+11:00);24/04/2022 12:00:00 (+03:00);4826.0;12.0
+NRT-Japão;KIN-Jamaica;LATAM Airlines;25/04/2022 14:00:00 (+12:00);25/04/2022 17:00:00 (+01:00);4349.0;14.0
+NRT-Japão;KIN-Jamaica;United Airlines;03/04/2022 13:00:00 (+10:00);03/04/2022 09:00:00 (-10:00);3040.0;16.0
+NRT-Japão;KIN-Jamaica;Lufthansa;05/04/2022 22:00:00 (-03:00);06/04/2022 11:00:00 (-08:00);2428.0;18.0
+NRT-Japão;KIN-Jamaica;Ethiopian Airlines;04/04/2022 12:00:00 (-07:00);06/04/2022 02:00:00 (+07:00);2359.0;24.0
+NRT-Japão;KIN-Jamaica;Emirates;12/04/2022 11:00:00 (+01:00);13/04/2022 08:00:00 (-02:00);4274.0;24.0
+NRT-Japão;LIS-Portugal;Ethiopian Airlines;03/04/2022 09:00:00 (+06:00);02/04/2022 16:00:00 (-12:00);2619.0;1.0
+NRT-Japão;LIS-Portugal;Qatar Airways;29/04/2022 07:00:00 (+01:00);28/04/2022 20:00:00 (-11:00);2766.0;1.0
+NRT-Japão;LIS-Portugal;Emirates;27/04/2022 09:00:00 (-04:00);27/04/2022 15:00:00 (+01:00);3185.0;1.0
+NRT-Japão;LIS-Portugal;United Airlines;12/04/2022 02:00:00 (-02:00);12/04/2022 02:00:00 (-07:00);3768.0;5.0
+NRT-Japão;LIS-Portugal;Lufthansa;02/04/2022 01:00:00 (-09:00);02/04/2022 10:00:00 (-11:00);2663.0;11.0
+NRT-Japão;LIS-Portugal;AirCanada;23/04/2022 14:00:00 (+05:00);23/04/2022 15:00:00 (-10:00);3302.0;16.0
+NRT-Japão;LIS-Portugal;Gol Airlines;27/04/2022 09:00:00 (-06:00);28/04/2022 18:00:00 (+11:00);4984.0;16.0
+NRT-Japão;LIS-Portugal;AirFrance;22/04/2022 01:00:00 (-09:00);22/04/2022 19:00:00 (-10:00);2040.0;19.0
+NRT-Japão;LIS-Portugal;American Airlines;30/04/2022 22:00:00 (-02:00);01/05/2022 20:00:00 (-01:00);2822.0;21.0
+NRT-Japão;LIS-Portugal;LATAM Airlines;18/04/2022 02:00:00 (+04:00);19/04/2022 01:00:00 (+03:00);3608.0;24.0
+NRT-Japão;MEL-Austrália;Ethiopian Airlines;28/04/2022 14:00:00 (-08:00);29/04/2022 07:00:00 (Z);3567.0;9.0
+NRT-Japão;MEL-Austrália;Emirates;06/04/2022 14:00:00 (-03:00);07/04/2022 05:00:00 (+02:00);4572.0;10.0
+NRT-Japão;MEL-Austrália;LATAM Airlines;03/04/2022 04:00:00 (-12:00);04/04/2022 11:00:00 (+08:00);3399.0;11.0
+NRT-Japão;MEL-Austrália;Qatar Airways;04/04/2022 03:00:00 (+11:00);04/04/2022 16:00:00 (+12:00);2345.0;12.0
+NRT-Japão;MEL-Austrália;Gol Airlines;26/04/2022 06:00:00 (-06:00);27/04/2022 15:00:00 (+11:00);4640.0;16.0
+NRT-Japão;MEL-Austrália;AirCanada;24/04/2022 12:00:00 (-05:00);25/04/2022 17:00:00 (+06:00);3451.0;18.0
+NRT-Japão;MEL-Austrália;United Airlines;17/04/2022 01:00:00 (+01:00);17/04/2022 16:00:00 (-03:00);2937.0;19.0
+NRT-Japão;MEL-Austrália;AirFrance;16/04/2022 13:00:00 (+06:00);17/04/2022 08:00:00 (+03:00);3357.0;22.0
+NRT-Japão;MEL-Austrália;Lufthansa;10/04/2022 22:00:00 (-09:00);12/04/2022 12:00:00 (+07:00);3418.0;22.0
+NRT-Japão;MEL-Austrália;American Airlines;17/04/2022 01:00:00 (-06:00);17/04/2022 23:00:00 (-08:00);4185.0;24.0
+NRT-Japão;PEK-China;LATAM Airlines;20/04/2022 10:00:00 (-07:00);20/04/2022 10:00:00 (-09:00);4814.0;2.0
+NRT-Japão;PEK-China;Qatar Airways;15/04/2022 10:00:00 (-07:00);16/04/2022 02:00:00 (+05:00);2208.0;4.0
+NRT-Japão;PEK-China;Lufthansa;23/04/2022 17:00:00 (-09:00);24/04/2022 19:00:00 (+09:00);3717.0;8.0
+NRT-Japão;PEK-China;Gol Airlines;10/04/2022 07:00:00 (Z);10/04/2022 13:00:00 (-02:00);4928.0;8.0
+NRT-Japão;PEK-China;Emirates;24/04/2022 09:00:00 (-03:00);24/04/2022 21:00:00 (Z);3745.0;9.0
+NRT-Japão;PEK-China;AirFrance;16/04/2022 21:00:00 (+01:00);17/04/2022 18:00:00 (+09:00);2285.0;13.0
+NRT-Japão;PEK-China;American Airlines;06/04/2022 04:00:00 (-04:00);07/04/2022 01:00:00 (+03:00);4208.0;14.0
+NRT-Japão;PEK-China;United Airlines;23/04/2022 01:00:00 (-03:00);23/04/2022 14:00:00 (-07:00);3007.0;17.0
+NRT-Japão;PEK-China;Ethiopian Airlines;01/04/2022 00:00:00 (+01:00);02/04/2022 03:00:00 (+11:00);4173.0;17.0
+NRT-Japão;PEK-China;AirCanada;25/04/2022 11:00:00 (-12:00);26/04/2022 21:00:00 (Z);2088.0;22.0
+NRT-Japão;YYC-Canada;Lufthansa;25/04/2022 12:00:00 (+05:00);25/04/2022 07:00:00 (-02:00);2052.0;2.0
+NRT-Japão;YYC-Canada;Emirates;19/04/2022 13:00:00 (-07:00);19/04/2022 12:00:00 (-12:00);4390.0;4.0
+NRT-Japão;YYC-Canada;United Airlines;03/04/2022 12:00:00 (-04:00);03/04/2022 21:00:00 (+01:00);4416.0;4.0
+NRT-Japão;YYC-Canada;Gol Airlines;09/04/2022 11:00:00 (+05:00);09/04/2022 18:00:00 (+03:00);2195.0;9.0
+NRT-Japão;YYC-Canada;LATAM Airlines;22/04/2022 08:00:00 (+04:00);22/04/2022 14:00:00 (+01:00);4372.0;9.0
+NRT-Japão;YYC-Canada;American Airlines;07/04/2022 03:00:00 (-08:00);07/04/2022 09:00:00 (-12:00);4847.0;10.0
+NRT-Japão;YYC-Canada;Ethiopian Airlines;27/04/2022 08:00:00 (-12:00);28/04/2022 13:00:00 (+03:00);4543.0;14.0
+NRT-Japão;YYC-Canada;AirCanada;13/04/2022 00:00:00 (+04:00);13/04/2022 15:00:00 (+04:00);2920.0;15.0
+NRT-Japão;YYC-Canada;AirFrance;08/04/2022 08:00:00 (+05:00);08/04/2022 17:00:00 (-01:00);4414.0;15.0
+NRT-Japão;YYC-Canada;Qatar Airways;22/04/2022 05:00:00 (Z);23/04/2022 00:00:00 (+02:00);4284.0;17.0
+PEK-China;FEN-Brasil;LATAM Airlines;14/04/2022 17:00:00 (-05:00);15/04/2022 03:00:00 (+03:00);3849.0;2.0
+PEK-China;FEN-Brasil;Ethiopian Airlines;14/04/2022 19:00:00 (-01:00);15/04/2022 01:00:00 (+03:00);3984.0;2.0
+PEK-China;FEN-Brasil;AirCanada;26/04/2022 21:00:00 (-11:00);27/04/2022 09:00:00 (-03:00);2419.0;4.0
+PEK-China;FEN-Brasil;Qatar Airways;08/04/2022 04:00:00 (-03:00);08/04/2022 13:00:00 (+01:00);2736.0;5.0
+PEK-China;FEN-Brasil;Gol Airlines;27/04/2022 16:00:00 (Z);28/04/2022 03:00:00 (+01:00);4152.0;10.0
+PEK-China;FEN-Brasil;Emirates;22/04/2022 19:00:00 (-12:00);24/04/2022 07:00:00 (+12:00);3089.0;12.0
+PEK-China;FEN-Brasil;United Airlines;08/04/2022 19:00:00 (+10:00);08/04/2022 21:00:00 (-05:00);2796.0;17.0
+PEK-China;FEN-Brasil;American Airlines;14/04/2022 02:00:00 (-04:00);15/04/2022 05:00:00 (+05:00);2108.0;18.0
+PEK-China;FEN-Brasil;AirFrance;27/04/2022 15:00:00 (+06:00);28/04/2022 04:00:00 (-01:00);4321.0;20.0
+PEK-China;FEN-Brasil;Lufthansa;19/04/2022 14:00:00 (-09:00);20/04/2022 22:00:00 (+01:00);3727.0;22.0
+PEK-China;GRU-Brasil;Lufthansa;21/04/2022 03:00:00 (+07:00);20/04/2022 13:00:00 (-09:00);2088.0;2.0
+PEK-China;GRU-Brasil;LATAM Airlines;14/04/2022 12:00:00 (+04:00);14/04/2022 10:00:00 (-04:00);2406.0;6.0
+PEK-China;GRU-Brasil;American Airlines;22/04/2022 01:00:00 (-08:00);22/04/2022 22:00:00 (+07:00);4602.0;6.0
+PEK-China;GRU-Brasil;Emirates;21/04/2022 00:00:00 (-06:00);21/04/2022 08:00:00 (-12:00);3962.0;14.0
+PEK-China;GRU-Brasil;AirCanada;22/04/2022 08:00:00 (+12:00);22/04/2022 21:00:00 (+06:00);4574.0;19.0
+PEK-China;GRU-Brasil;Gol Airlines;13/04/2022 14:00:00 (+06:00);14/04/2022 00:00:00 (-04:00);3139.0;20.0
+PEK-China;GRU-Brasil;AirFrance;09/04/2022 07:00:00 (-10:00);10/04/2022 18:00:00 (+04:00);2186.0;21.0
+PEK-China;GRU-Brasil;United Airlines;05/04/2022 01:00:00 (+11:00);05/04/2022 18:00:00 (+07:00);2936.0;21.0
+PEK-China;GRU-Brasil;Ethiopian Airlines;21/04/2022 15:00:00 (+10:00);21/04/2022 17:00:00 (-10:00);4168.0;22.0
+PEK-China;GRU-Brasil;Qatar Airways;15/04/2022 14:00:00 (+07:00);16/04/2022 01:00:00 (-05:00);2786.0;23.0
+PEK-China;KIN-Jamaica;AirCanada;30/04/2022 06:00:00 (-11:00);30/04/2022 09:00:00 (-09:00);2697.0;1.0
+PEK-China;KIN-Jamaica;Qatar Airways;30/04/2022 03:00:00 (-08:00);30/04/2022 13:00:00 (-01:00);4081.0;3.0
+PEK-China;KIN-Jamaica;LATAM Airlines;18/04/2022 06:00:00 (+05:00);18/04/2022 18:00:00 (+12:00);2901.0;5.0
+PEK-China;KIN-Jamaica;American Airlines;17/04/2022 23:00:00 (+01:00);18/04/2022 13:00:00 (+09:00);2546.0;6.0
+PEK-China;KIN-Jamaica;Ethiopian Airlines;19/04/2022 08:00:00 (+09:00);19/04/2022 17:00:00 (+12:00);2788.0;6.0
+PEK-China;KIN-Jamaica;AirFrance;13/04/2022 09:00:00 (Z);13/04/2022 17:00:00 (-02:00);4757.0;10.0
+PEK-China;KIN-Jamaica;Lufthansa;05/04/2022 09:00:00 (+07:00);05/04/2022 10:00:00 (-03:00);2956.0;11.0
+PEK-China;KIN-Jamaica;United Airlines;14/04/2022 23:00:00 (-11:00);16/04/2022 02:00:00 (-01:00);3478.0;17.0
+PEK-China;KIN-Jamaica;Gol Airlines;16/04/2022 05:00:00 (+09:00);16/04/2022 11:00:00 (-06:00);2735.0;21.0
+PEK-China;KIN-Jamaica;Emirates;02/04/2022 21:00:00 (-06:00);04/04/2022 14:00:00 (+11:00);2696.0;24.0
+PEK-China;LIS-Portugal;United Airlines;08/04/2022 08:00:00 (+04:00);08/04/2022 09:00:00 (+04:00);2282.0;1.0
+PEK-China;LIS-Portugal;American Airlines;18/04/2022 20:00:00 (-09:00);18/04/2022 22:00:00 (-11:00);4678.0;4.0
+PEK-China;LIS-Portugal;LATAM Airlines;05/04/2022 12:00:00 (-12:00);06/04/2022 20:00:00 (+11:00);3081.0;9.0
+PEK-China;LIS-Portugal;Emirates;04/04/2022 07:00:00 (+08:00);04/04/2022 06:00:00 (-03:00);2525.0;10.0
+PEK-China;LIS-Portugal;Ethiopian Airlines;08/04/2022 14:00:00 (+09:00);08/04/2022 18:00:00 (+02:00);3021.0;11.0
+PEK-China;LIS-Portugal;Lufthansa;26/04/2022 22:00:00 (+02:00);27/04/2022 17:00:00 (+10:00);4537.0;11.0
+PEK-China;LIS-Portugal;AirCanada;01/04/2022 00:00:00 (-08:00);02/04/2022 01:00:00 (+04:00);3967.0;13.0
+PEK-China;LIS-Portugal;AirFrance;30/04/2022 11:00:00 (+08:00);01/05/2022 05:00:00 (+12:00);3078.0;14.0
+PEK-China;LIS-Portugal;Gol Airlines;04/04/2022 00:00:00 (-02:00);05/04/2022 07:00:00 (+11:00);2146.0;18.0
+PEK-China;LIS-Portugal;Qatar Airways;12/04/2022 14:00:00 (-02:00);14/04/2022 02:00:00 (+12:00);2559.0;22.0
+PEK-China;MEL-Austrália;Emirates;09/04/2022 11:00:00 (-06:00);10/04/2022 01:00:00 (+07:00);2321.0;1.0
+PEK-China;MEL-Austrália;Gol Airlines;19/04/2022 13:00:00 (-01:00);19/04/2022 22:00:00 (+04:00);2649.0;4.0
+PEK-China;MEL-Austrália;Qatar Airways;09/04/2022 18:00:00 (-05:00);10/04/2022 19:00:00 (+09:00);3377.0;11.0
+PEK-China;MEL-Austrália;AirFrance;30/04/2022 11:00:00 (-03:00);01/05/2022 06:00:00 (Z);2516.0;16.0
+PEK-China;MEL-Austrália;American Airlines;17/04/2022 06:00:00 (-03:00);18/04/2022 07:00:00 (+04:00);2626.0;18.0
+PEK-China;MEL-Austrália;United Airlines;18/04/2022 14:00:00 (-02:00);19/04/2022 03:00:00 (-07:00);4170.0;18.0
+PEK-China;MEL-Austrália;LATAM Airlines;25/04/2022 05:00:00 (-10:00);26/04/2022 15:00:00 (+02:00);2400.0;22.0
+PEK-China;MEL-Austrália;Ethiopian Airlines;10/04/2022 23:00:00 (-05:00);11/04/2022 19:00:00 (-07:00);4503.0;22.0
+PEK-China;MEL-Austrália;AirCanada;30/04/2022 03:00:00 (-04:00);01/05/2022 07:00:00 (+01:00);4717.0;23.0
+PEK-China;MEL-Austrália;Lufthansa;02/04/2022 20:00:00 (-12:00);04/04/2022 16:00:00 (+08:00);2857.0;24.0
+PEK-China;YYC-Canada;AirCanada;20/04/2022 07:00:00 (-08:00);20/04/2022 11:00:00 (-07:00);3822.0;3.0
+PEK-China;YYC-Canada;LATAM Airlines;06/04/2022 22:00:00 (+11:00);06/04/2022 16:00:00 (+02:00);4019.0;3.0
+PEK-China;YYC-Canada;Ethiopian Airlines;26/04/2022 07:00:00 (+01:00);26/04/2022 15:00:00 (+04:00);4354.0;5.0
+PEK-China;YYC-Canada;American Airlines;23/04/2022 02:00:00 (+04:00);22/04/2022 21:00:00 (-09:00);2835.0;8.0
+PEK-China;YYC-Canada;United Airlines;15/04/2022 04:00:00 (+05:00);15/04/2022 05:00:00 (-02:00);4071.0;8.0
+PEK-China;YYC-Canada;Qatar Airways;13/04/2022 05:00:00 (+04:00);13/04/2022 17:00:00 (+05:00);2380.0;11.0
+PEK-China;YYC-Canada;Gol Airlines;22/04/2022 20:00:00 (-11:00);24/04/2022 10:00:00 (+12:00);2747.0;15.0
+PEK-China;YYC-Canada;Emirates;06/04/2022 19:00:00 (-12:00);07/04/2022 21:00:00 (-06:00);4720.0;20.0
+PEK-China;YYC-Canada;AirFrance;19/04/2022 23:00:00 (-12:00);21/04/2022 13:00:00 (+04:00);2225.0;22.0
+PEK-China;YYC-Canada;Lufthansa;05/04/2022 06:00:00 (+02:00);06/04/2022 03:00:00 (-01:00);2326.0;24.0
+YYC-Canada;LIS-Portugal;AirCanada;11/04/2022 13:00:00 (-01:00);11/04/2022 10:00:00 (-05:00);4600.0;1.0
+YYC-Canada;LIS-Portugal;AirFrance;08/04/2022 03:00:00 (+01:00);08/04/2022 14:00:00 (+10:00);4425.0;2.0
+YYC-Canada;LIS-Portugal;United Airlines;04/04/2022 09:00:00 (-05:00);04/04/2022 15:00:00 (-02:00);2001.0;3.0
+YYC-Canada;LIS-Portugal;LATAM Airlines;07/04/2022 14:00:00 (-11:00);08/04/2022 17:00:00 (+12:00);2632.0;4.0
+YYC-Canada;LIS-Portugal;Ethiopian Airlines;17/04/2022 03:00:00 (+11:00);17/04/2022 11:00:00 (+07:00);3846.0;12.0
+YYC-Canada;LIS-Portugal;American Airlines;22/04/2022 07:00:00 (+06:00);22/04/2022 14:00:00 (-01:00);2013.0;14.0
+YYC-Canada;LIS-Portugal;Qatar Airways;05/04/2022 04:00:00 (-01:00);06/04/2022 06:00:00 (+10:00);4256.0;15.0
+YYC-Canada;LIS-Portugal;Lufthansa;16/04/2022 10:00:00 (-03:00);17/04/2022 10:00:00 (+05:00);2355.0;16.0
+YYC-Canada;LIS-Portugal;Emirates;24/04/2022 03:00:00 (+02:00);24/04/2022 14:00:00 (-10:00);4542.0;23.0
+YYC-Canada;LIS-Portugal;Gol Airlines;16/04/2022 03:00:00 (+10:00);16/04/2022 08:00:00 (-09:00);4012.0;24.0
+YYC-Canada;MEL-Austrália;Emirates;19/04/2022 02:00:00 (-05:00);19/04/2022 11:00:00 (Z);3191.0;4.0
+YYC-Canada;MEL-Austrália;Qatar Airways;23/04/2022 03:00:00 (-12:00);23/04/2022 22:00:00 (+02:00);4073.0;5.0
+YYC-Canada;MEL-Austrália;Ethiopian Airlines;24/04/2022 19:00:00 (+11:00);24/04/2022 01:00:00 (-12:00);4302.0;5.0
+YYC-Canada;MEL-Austrália;LATAM Airlines;17/04/2022 03:00:00 (+01:00);17/04/2022 15:00:00 (+07:00);3933.0;6.0
+YYC-Canada;MEL-Austrália;Lufthansa;22/04/2022 01:00:00 (+12:00);21/04/2022 21:00:00 (+01:00);2427.0;7.0
+YYC-Canada;MEL-Austrália;Gol Airlines;21/04/2022 06:00:00 (-11:00);22/04/2022 07:00:00 (+02:00);4257.0;12.0
+YYC-Canada;MEL-Austrália;AirCanada;01/04/2022 01:00:00 (-05:00);02/04/2022 00:00:00 (-04:00);4025.0;22.0
+YYC-Canada;MEL-Austrália;American Airlines;02/04/2022 13:00:00 (+05:00);03/04/2022 18:00:00 (+11:00);2026.0;23.0
+YYC-Canada;MEL-Austrália;United Airlines;30/04/2022 04:00:00 (-07:00);01/05/2022 00:00:00 (-10:00);2211.0;23.0
+YYC-Canada;MEL-Austrália;AirFrance;04/04/2022 12:00:00 (-11:00);05/04/2022 20:00:00 (-03:00);4848.0;24.0
